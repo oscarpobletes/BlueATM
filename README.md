@@ -27,11 +27,11 @@ Before running the BlueATM application, ensure you have the following installed:
 
 2. Import the project into NetBeans IDE.
 
-3. Create a MySQL database for the application. You can use the provided DDL.sql file in the "Mysql_workbench" directory to set up the database schema.
+3. Create a MySQL database for the application. You can use the provided `DDL.sql`and `DML.sql` files in the "Mysql_workbench" directory to set up the database schema.
 
-4. Update the database connection details in the "Database_atm.java" file located in the "Blue_ATM" directory to match your MySQL server settings.
+4. Update the database connection details in the `Database_atm.java` file located in the "Blue_ATM" directory to match your MySQL server settings.
 
-5. Compile and run the "Splash.java" file to start the BlueATM application.
+5. Compile and run the `Splash.java` file to start the BlueATM application.
 
 ## Usage
 
