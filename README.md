@@ -27,7 +27,7 @@ Before running the BlueATM application, ensure you have the following installed:
 
 2. Import the project into NetBeans IDE.
 
-3. Create a MySQL database for the application. You can use the provided `DDL.sql`and `DML.sql` files in the "Mysql_workbench" directory to set up the database schema.
+3. Create a MySQL database for the application. You can use the provided `DDL.sql`and `DML.sql` files in the **Mysql_workbench** directory to set up the database schema.
 
 4. Update the database connection details in the `Database_atm.java` file located in the "Blue_ATM" directory to match your MySQL server settings.
 
@@ -43,7 +43,7 @@ Before running the BlueATM application, ensure you have the following installed:
 
 4. For transactions such as cash withdrawal or deposit, follow the on-screen instructions.
 
-5. To change your PIN, navigate to the "Change PIN" option and follow the prompts.
+5. To change your PIN, navigate to the **Change PIN** option and follow the prompts.
 
-6. To exit the application, select the "Exit" option from the main menu.
+6. To exit the application, select the **Exit** option from the main menu.
 
